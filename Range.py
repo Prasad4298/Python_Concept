@@ -1,8 +1,8 @@
-# Range is function
-
+# Range is function :- which accept 3 parameter
+#         1     2       3 
 # range(start, end, displacement)
 # start : is by default
-# end : there si no default value       jar 5 asel tar end 4
+# end : there  no default value       jar 5 asel tar end 4
 # displacement : is by default 1
 
 print(range(1,5))

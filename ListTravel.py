@@ -7,6 +7,7 @@ print(values[3])
 print(values[4])        # ending pt ((len(values)-1)
 
 # for i in range(start, end, displacement):
+print("length of list is :->",len(values))
 
 for i in range(0,len(values),1):
     print(i)
@@ -20,3 +21,7 @@ for i in range(0,len(values)):
 
 for no in values:
     print(no)       # no madhe values 10,20,30,40,50
+
+for no in range(0,len(values),1):
+    print(no)
+    print("value is:->",values[no])
